@@ -10843,27 +10843,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangaeden",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaeden",
-    "apk": "tachiyomi-en.mangaeden-v1.2.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Eden",
-        "lang": "en",
-        "id": "6894303465364688269",
-        "baseUrl": "https://www2.mangaeden.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaEffect",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaeffect",
     "apk": "tachiyomi-en.mangaeffect-v1.2.21.apk",
@@ -14829,27 +14808,6 @@
         "baseUrl": "https://patchfriday.com",
         "versionId": 1,
         "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Perveden",
-    "pkg": "eu.kanade.tachiyomi.extension.en.perveden",
-    "apk": "tachiyomi-en.perveden-v1.2.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "PervEden",
-        "lang": "en",
-        "id": "4673633799850248749",
-        "baseUrl": "https://www.perveden.com",
-        "versionId": 1,
-        "hasCloudflare": 0
       }
     ]
   },
