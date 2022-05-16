@@ -4231,10 +4231,10 @@
   {
     "name": "Tachiyomi: MangaReader",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
-    "apk": "tachiyomi-all.mangareaderto-v1.2.1.apk",
+    "apk": "tachiyomi-all.mangareaderto-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20387,10 +20387,10 @@
   {
     "name": "Tachiyomi: Mangaku",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaku",
-    "apk": "tachiyomi-id.mangaku-v1.2.2.apk",
+    "apk": "tachiyomi-id.mangaku-v1.2.3.apk",
     "lang": "id",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20399,7 +20399,7 @@
         "name": "Mangaku",
         "lang": "id",
         "id": "5933657200789309472",
-        "baseUrl": "https://mangaku.in/",
+        "baseUrl": "https://mangaku.site/",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -24485,10 +24485,10 @@
   {
     "name": "Tachiyomi: Web of Comics",
     "pkg": "eu.kanade.tachiyomi.extension.ru.webofcomics",
-    "apk": "tachiyomi-ru.webofcomics-v1.2.1.apk",
+    "apk": "tachiyomi-ru.webofcomics-v1.2.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26060,16 +26060,16 @@
   {
     "name": "Tachiyomi: Baozimanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhua",
-    "apk": "tachiyomi-zh.baozimanhua-v1.2.3.apk",
+    "apk": "tachiyomi-zh.baozimanhua-v1.2.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasChangelog": 1,
     "sources": [
       {
-        "name": "Baozimanhua",
+        "name": "包子漫画",
         "lang": "zh",
         "id": "5724751873601868259",
         "baseUrl": "https://cn.baozimh.com",
@@ -26205,27 +26205,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Hanhankuman",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.hanhankuman",
-    "apk": "tachiyomi-zh.hanhankuman-v1.2.4.apk",
-    "lang": "zh",
-    "code": 4,
-    "version": "1.2.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "汗汗酷漫",
-        "lang": "zh",
-        "id": "8190062809957825087",
-        "baseUrl": "http://www.hhimm.com",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Haoman6",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haoman6",
     "apk": "tachiyomi-zh.haoman6-v1.2.2.apk",
@@ -26312,10 +26291,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.2.1.apk",
+    "apk": "tachiyomi-zh.happymh-v1.2.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
