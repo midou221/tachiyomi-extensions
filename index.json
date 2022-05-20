@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-    "apk": "tachiyomi-all.asurascans-v1.2.26.apk",
+    "apk": "tachiyomi-all.asurascans-v1.2.27.apk",
     "lang": "all",
-    "code": 26,
-    "version": "1.2.26",
+    "code": 27,
+    "version": "1.2.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21332,10 +21332,10 @@
   {
     "name": "Tachiyomi: Manga Gohan",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangagohan",
-    "apk": "tachiyomi-ja.mangagohan-v1.2.21.apk",
+    "apk": "tachiyomi-ja.mangagohan-v1.2.22.apk",
     "lang": "ja",
-    "code": 21,
-    "version": "1.2.21",
+    "code": 22,
+    "version": "1.2.22",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21344,7 +21344,7 @@
         "name": "Manga Gohan",
         "lang": "ja",
         "id": "7468912647278903320",
-        "baseUrl": "https://gokumanga.com/",
+        "baseUrl": "https://mangagohan.me/",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23225,10 +23225,10 @@
   {
     "name": "Tachiyomi: Neox Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.2.32.apk",
+    "apk": "tachiyomi-pt.neoxscanlator-v1.2.33.apk",
     "lang": "pt-BR",
-    "code": 32,
-    "version": "1.2.32",
+    "code": 33,
+    "version": "1.2.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23237,7 +23237,7 @@
         "name": "Neox Scanlator",
         "lang": "pt-BR",
         "id": "1784135076119945250",
-        "baseUrl": "https://neoxscans.net",
+        "baseUrl": "https://neoxscan.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24065,10 +24065,10 @@
   {
     "name": "Tachiyomi: Henchan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.2.33.apk",
+    "apk": "tachiyomi-ru.henchan-v1.2.34.apk",
     "lang": "ru",
-    "code": 33,
-    "version": "1.2.33",
+    "code": 34,
+    "version": "1.2.34",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24077,7 +24077,7 @@
         "name": "Henchan",
         "lang": "ru",
         "id": "5504588601186153612",
-        "baseUrl": "https://xxx.hentaichan.live",
+        "baseUrl": "https://xxxx.hentaichan.live",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26522,10 +26522,10 @@
   {
     "name": "Tachiyomi: Qimiaomh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.qimiaomh",
-    "apk": "tachiyomi-zh.qimiaomh-v1.2.2.apk",
+    "apk": "tachiyomi-zh.qimiaomh-v1.2.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
