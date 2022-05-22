@@ -2963,10 +2963,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.158.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.159.apk",
     "lang": "all",
-    "code": 158,
-    "version": "1.2.158",
+    "code": 159,
+    "version": "1.2.159",
     "nsfw": 1,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -21225,6 +21225,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hatachi Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.hatachimanga",
+    "apk": "tachiyomi-ja.hatachimanga-v1.2.20.apk",
+    "lang": "ja",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hatachi Manga",
+        "lang": "ja",
+        "id": "3408556632085724030",
+        "baseUrl": "https://mangahatachi.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
     "apk": "tachiyomi-ja.kisslove-v1.2.7.apk",
@@ -21345,6 +21366,27 @@
         "lang": "ja",
         "id": "7468912647278903320",
         "baseUrl": "https://mangagohan.me/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaKL",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangakl",
+    "apk": "tachiyomi-ja.mangakl-v1.2.20.apk",
+    "lang": "ja",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaKL",
+        "lang": "ja",
+        "id": "3635303628313052204",
+        "baseUrl": "https://mangakala.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -23981,10 +24023,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.2.20.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.2.21.apk",
     "lang": "ru",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24275,10 +24317,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.43.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.44.apk",
     "lang": "ru",
-    "code": 43,
-    "version": "1.2.43",
+    "code": 44,
+    "version": "1.2.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24338,10 +24380,10 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.42.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.43.apk",
     "lang": "ru",
-    "code": 42,
-    "version": "1.2.42",
+    "code": 43,
+    "version": "1.2.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24422,10 +24464,10 @@
   {
     "name": "Tachiyomi: Selfmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.2.20.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.2.21.apk",
     "lang": "ru",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24485,10 +24527,10 @@
   {
     "name": "Tachiyomi: Web of Comics",
     "pkg": "eu.kanade.tachiyomi.extension.ru.webofcomics",
-    "apk": "tachiyomi-ru.webofcomics-v1.2.2.apk",
+    "apk": "tachiyomi-ru.webofcomics-v1.2.3.apk",
     "lang": "ru",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26102,10 +26144,10 @@
   {
     "name": "Tachiyomi: BILIBILI MANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bilibilimanga",
-    "apk": "tachiyomi-zh.bilibilimanga-v1.2.3.apk",
+    "apk": "tachiyomi-zh.bilibilimanga-v1.2.4.apk",
     "lang": "zh-Hans",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -26270,10 +26312,10 @@
   {
     "name": "Tachiyomi: Haomanwu",
     "pkg": "eu.kanade.tachiyomi.extension.zh.haomanwu",
-    "apk": "tachiyomi-zh.haomanwu-v1.2.3.apk",
+    "apk": "tachiyomi-zh.haomanwu-v1.2.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26472,6 +26514,27 @@
         "lang": "zh",
         "id": "3616827811449702173",
         "baseUrl": "http://mangaapi.manhuaren.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Maofly",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.maofly",
+    "apk": "tachiyomi-zh.maofly-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "漫画猫",
+        "lang": "zh",
+        "id": "1753091202178163446",
+        "baseUrl": "https://www.maofly.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
