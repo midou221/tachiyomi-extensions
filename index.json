@@ -19054,6 +19054,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ragnarok Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ragnarokscanlation",
+    "apk": "tachiyomi-es.ragnarokscanlation-v1.2.20.apk",
+    "lang": "es",
+    "code": 20,
+    "version": "1.2.20",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ragnarok Scanlation",
+        "lang": "es",
+        "id": "510508500848213737",
+        "baseUrl": "https://ragnarokscanlation.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.samuraiscan",
     "apk": "tachiyomi-es.samuraiscan-v1.2.21.apk",
@@ -19526,10 +19547,10 @@
   {
     "name": "Tachiyomi: Mangakawaii",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-    "apk": "tachiyomi-fr.mangakawaii-v1.2.33.apk",
+    "apk": "tachiyomi-fr.mangakawaii-v1.2.34.apk",
     "lang": "fr",
-    "code": 33,
-    "version": "1.2.33",
+    "code": 34,
+    "version": "1.2.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19538,7 +19559,7 @@
         "name": "Mangakawaii",
         "lang": "fr",
         "id": "1384625280015637699",
-        "baseUrl": "https://www.mangakawaii.net",
+        "baseUrl": "https://www.mangakawaii.io",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21345,6 +21366,27 @@
         "lang": "ja",
         "id": "4239270419267556174",
         "baseUrl": "https://manga1001.top/",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Cross",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangacross",
+    "apk": "tachiyomi-ja.mangacross-v1.2.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Cross",
+        "lang": "ja",
+        "id": "6046098060941487866",
+        "baseUrl": "https://mangacross.jp",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -24338,10 +24380,10 @@
   {
     "name": "Tachiyomi: NewManga(Newbie)",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.2.8.apk",
+    "apk": "tachiyomi-ru.newbie-v1.2.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26367,6 +26409,27 @@
         "lang": "zh",
         "id": "5157380471854010675",
         "baseUrl": "https://m.imitui.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Iqiyi",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.iqiyi",
+    "apk": "tachiyomi-zh.iqiyi-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "爱奇艺叭嗒",
+        "lang": "zh",
+        "id": "2198877009406729694",
+        "baseUrl": "https://www.iqiyi.com/manhua",
         "versionId": 1,
         "hasCloudflare": 0
       }
