@@ -7829,27 +7829,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Comikey",
-    "pkg": "eu.kanade.tachiyomi.extension.en.comikey",
-    "apk": "tachiyomi-en.comikey-v1.2.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Comikey",
-        "lang": "en",
-        "id": "2769857481066602061",
-        "baseUrl": "https://comikey.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Cookie Kiara",
     "pkg": "eu.kanade.tachiyomi.extension.en.cookiekiara",
     "apk": "tachiyomi-en.cookiekiara-v1.2.20.apk",
