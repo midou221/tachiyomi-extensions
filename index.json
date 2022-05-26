@@ -2513,18 +2513,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Junmei tu",
+    "name": "Tachiyomi: Junmeitu",
     "pkg": "eu.kanade.tachiyomi.extension.all.junmeitu",
-    "apk": "tachiyomi-all.junmeitu-v1.2.1.apk",
+    "apk": "tachiyomi-all.junmeitu-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Junmei tu",
+        "name": "Junmeitu",
         "lang": "all",
         "id": "4721197766605490540",
         "baseUrl": "https://junmeitu.com",
@@ -5954,6 +5954,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Xinmeitulu",
+    "pkg": "eu.kanade.tachiyomi.extension.all.xinmeitulu",
+    "apk": "tachiyomi-all.xinmeitulu-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Xinmeitulu",
+        "lang": "all",
+        "id": "7605572805514532847",
+        "baseUrl": "https://www.xinmeitulu.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: xkcd",
     "pkg": "eu.kanade.tachiyomi.extension.all.xkcd",
     "apk": "tachiyomi-all.xkcd-v1.2.12.apk",
@@ -8062,10 +8083,10 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.2.16.apk",
+    "apk": "tachiyomi-en.dynasty-v1.2.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21729,6 +21750,48 @@
     ]
   },
   {
+    "name": "Tachiyomi: Web Comic Gamma",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgamma",
+    "apk": "tachiyomi-ja.webcomicgamma-v1.2.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Web Comic Gamma",
+        "lang": "ja",
+        "id": "4559298737846822406",
+        "baseUrl": "https://webcomicgamma.takeshobo.co.jp",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Web Comic Gamma Plus",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgammaplus",
+    "apk": "tachiyomi-ja.webcomicgammaplus-v1.2.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Web Comic Gamma Plus",
+        "lang": "ja",
+        "id": "6186256618592842791",
+        "baseUrl": "https://gammaplus.takeshobo.co.jp",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: JMana",
     "pkg": "eu.kanade.tachiyomi.extension.ko.jmana",
     "apk": "tachiyomi-ko.jmana-v1.2.15.apk",
@@ -21864,7 +21927,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki165.net",
+        "baseUrl": "https://manatoki166.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21872,7 +21935,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki165.com",
+        "baseUrl": "https://newtoki166.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24294,27 +24357,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangaonlinebiz",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.mangaonlinebiz",
-    "apk": "tachiyomi-ru.mangaonlinebiz-v1.2.10.apk",
-    "lang": "ru",
-    "code": 10,
-    "version": "1.2.10",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaOnlineBiz",
-        "lang": "ru",
-        "id": "2314860689497806581",
-        "baseUrl": "https://manga-online.biz",
-        "versionId": 1,
-        "hasCloudflare": 0
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaPoisk",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
     "apk": "tachiyomi-ru.mangapoisk-v1.2.4.apk",
@@ -24380,10 +24422,10 @@
   {
     "name": "Tachiyomi: NewManga(Newbie)",
     "pkg": "eu.kanade.tachiyomi.extension.ru.newbie",
-    "apk": "tachiyomi-ru.newbie-v1.2.9.apk",
+    "apk": "tachiyomi-ru.newbie-v1.2.10.apk",
     "lang": "ru",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26270,10 +26312,10 @@
   {
     "name": "Tachiyomi: Gufeng Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-    "apk": "tachiyomi-zh.gufengmh-v1.2.5.apk",
+    "apk": "tachiyomi-zh.gufengmh-v1.2.6.apk",
     "lang": "zh",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26282,7 +26324,7 @@
         "name": "古风漫画网",
         "lang": "zh",
         "id": "4341893737383682159",
-        "baseUrl": "https://m.gufengmh9.com",
+        "baseUrl": "https://www.gufengmh9.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -26396,10 +26438,10 @@
   {
     "name": "Tachiyomi: Imitui Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.imitui",
-    "apk": "tachiyomi-zh.imitui-v1.2.2.apk",
+    "apk": "tachiyomi-zh.imitui-v1.2.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26408,7 +26450,7 @@
         "name": "爱米推漫画",
         "lang": "zh",
         "id": "5157380471854010675",
-        "baseUrl": "https://m.imitui.com",
+        "baseUrl": "https://www.imitui.com",
         "versionId": 1,
         "hasCloudflare": 0
       }
