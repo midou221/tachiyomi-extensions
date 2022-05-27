@@ -22614,27 +22614,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Okamishi Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.geassscanlator",
-    "apk": "tachiyomi-pt.geassscanlator-v1.2.25.apk",
-    "lang": "pt-BR",
-    "code": 25,
-    "version": "1.2.25",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Okamishi Scans",
-        "lang": "pt-BR",
-        "id": "1228448816486487111",
-        "baseUrl": "https://geassscan.net",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Gekkou Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouhentai",
     "apk": "tachiyomi-pt.gekkouhentai-v1.2.5.apk",
@@ -23351,10 +23330,10 @@
   {
     "name": "Tachiyomi: Neox Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.2.33.apk",
+    "apk": "tachiyomi-pt.neoxscanlator-v1.2.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.2.33",
+    "code": 34,
+    "version": "1.2.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23363,7 +23342,7 @@
         "name": "Neox Scanlator",
         "lang": "pt-BR",
         "id": "1784135076119945250",
-        "baseUrl": "https://neoxscan.net",
+        "baseUrl": "https://neoxscans.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
