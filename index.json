@@ -12523,27 +12523,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga SY",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangasy",
-    "apk": "tachiyomi-en.mangasy-v1.2.21.apk",
-    "lang": "en",
-    "code": 21,
-    "version": "1.2.21",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga SY",
-        "lang": "en",
-        "id": "2229698930032787585",
-        "baseUrl": "https://www.mangasy.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangatellers",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatellers",
     "apk": "tachiyomi-en.mangatellers-v1.2.3.apk",
@@ -26661,6 +26640,27 @@
         "lang": "zh",
         "id": "418374491144859437",
         "baseUrl": "http://qiximh1.com",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Roumanwu",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwu",
+    "apk": "tachiyomi-zh.roumanwu-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "肉漫屋",
+        "lang": "zh",
+        "id": "3647420805839021718",
+        "baseUrl": "https://rouman01.xyz",
         "versionId": 1,
         "hasCloudflare": 0
       }
