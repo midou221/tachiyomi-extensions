@@ -897,7 +897,7 @@
     "code": 2,
     "version": "1.2.2",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -10430,7 +10430,7 @@
     "code": 9,
     "version": "1.2.9",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11291,7 +11291,7 @@
     "code": 8,
     "version": "1.2.8",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11333,7 +11333,7 @@
     "code": 8,
     "version": "1.2.8",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11375,7 +11375,7 @@
     "code": 6,
     "version": "1.2.6",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -11879,7 +11879,7 @@
     "code": 7,
     "version": "1.2.7",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
@@ -20540,7 +20540,7 @@
     "version": "1.2.14",
     "nsfw": 1,
     "hasReadme": 0,
-    "hasChangelog": 0,
+    "hasChangelog": 1,
     "sources": [
       {
         "name": "Manhwa Indo",
@@ -26170,7 +26170,7 @@
     "code": 4,
     "version": "1.2.4",
     "nsfw": 0,
-    "hasReadme": 1,
+    "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
