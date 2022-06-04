@@ -57,9 +57,20 @@ class MangaSwat : WPMangaStream("MangaSwat", "https://swatmanga.co", "ar", Simpl
     override val pageSelector = "div#readerarea img"
 
     override fun pageListParse(document: Document): List<Page> {
-        return document.select(pageSelector)
-            .filterNot { it.attr("src").isNullOrEmpty() }
-            .mapIndexed { i, img -> Page(i, "", img.attr("src")) }
+            var page: List<Page>? = null
+            val elementsScript = document.getElementsByTag("script")
+            for (element in elementsScript) {
+                if (element.data().contains("ts_reader")) {
+                    val removeHead = element.data().replace("ts_reader.run(", "").replace(");", "")
+                    val jsonObject = JSONObject(removeHead)
+                    val sourcesArray = jsonObject.getJSONArray("sources")
+                    val imagesArray = sourcesArray.getJSONObject(0).getJSONArray("images")
+                    page = List(imagesArray.length()) { i ->
+                        Page(i, "", imagesArray[i].toString())
+                    }
+                }
+            }
+       return page!!
     }
 
     override fun getFilterList() = FilterList(
